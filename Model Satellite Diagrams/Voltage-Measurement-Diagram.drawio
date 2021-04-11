@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T12:50:58.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" version="14.5.10" etag="qYPdeVxHMcxGSyLuOy3h" type="github"><diagram id="BjNAo6o_9s94zUF2Akcn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-11T12:59:06.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="ZfhTbuuNsbkbv8do3h5_" version="14.5.10" type="github">
+  <diagram id="BjNAo6o_9s94zUF2Akcn" name="Page-1">
+    <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Başla&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-2" value="Seçilen analog pindeki değeri oku" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-4" value="Gerilim ölçme döngüsü" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-5" value="Değer&lt;br&gt;okunabildi mi?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-6" value="Belirtilen formüle göre pil gerilimini ölç" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-pQPspQUxaOjKpGUB5-C-1" target="-pQPspQUxaOjKpGUB5-C-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="-pQPspQUxaOjKpGUB5-C-4" target="-pQPspQUxaOjKpGUB5-C-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="-pQPspQUxaOjKpGUB5-C-2" target="-pQPspQUxaOjKpGUB5-C-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;strokeColor=#FF0000;" edge="1" parent="1" source="-pQPspQUxaOjKpGUB5-C-5" target="-pQPspQUxaOjKpGUB5-C-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-11" value="&lt;font color=&quot;#ff0000&quot;&gt;Hayır&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-13" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;strokeColor=#00FF00;" edge="1" parent="1" source="-pQPspQUxaOjKpGUB5-C-5" target="-pQPspQUxaOjKpGUB5-C-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-14" value="&lt;font color=&quot;#00ff00&quot;&gt;Evet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-pQPspQUxaOjKpGUB5-C-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="-pQPspQUxaOjKpGUB5-C-6" target="-pQPspQUxaOjKpGUB5-C-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

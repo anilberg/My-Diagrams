@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T13:39:42.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="R1aeKoF8GCZdm8MK_KNF" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T13:40:18.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="3AYJtR2CKUM1Glss--0i" version="14.5.10" type="github">
   <diagram id="Jdpy7drhXA22xz2mAAPi" name="Page-1">
     <mxGraphModel dx="2253" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="-10" y="10" width="1020" height="720" as="geometry" />
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="620" width="790" height="100" as="geometry" />
+          <mxGeometry x="20" y="620" width="900" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-52-128.png;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="550" y="60" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-29" value="&lt;br&gt;Video" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.video;" vertex="1" parent="1">
-          <mxGeometry y="60" width="360" height="220" as="geometry" />
+          <mxGeometry x="20" y="60" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-30" value="Basınç Grafiği" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="270" width="105" height="10" as="geometry" />
@@ -41,13 +41,13 @@
           <mxGeometry x="914" y="625" width="6" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-44" value="&amp;lt;TAKIM NO&amp;gt;,&amp;lt;PAKET NUMARASI&amp;gt;,&amp;lt;GÖNDERME SAATİ&amp;gt;,&amp;lt;BASINÇ&amp;gt;,&amp;lt;YÜKSEKLİK&amp;gt;,&amp;lt;İNİŞ HIZI&amp;gt;, &amp;lt;SICAKLIK&amp;gt;,&amp;lt;PİL GERİLİMİ&amp;gt;,&amp;lt;GPS LATITUDE&amp;gt;,&amp;lt;GPS LONGITUDE&amp;gt;,&amp;lt;GPS ALTITUDE&amp;gt;,&amp;lt;UYDU STATÜSÜ&amp;gt;,&amp;lt;PITCH&amp;gt;,&amp;lt;ROLL&amp;gt;,&amp;lt;YAW&amp;gt;,&amp;lt;DÖNÜŞ SAYISI&amp;gt;,&amp;lt;VİDEO AKTARIM BİLGİSİ&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="630" width="760" height="40" as="geometry" />
+          <mxGeometry x="30" y="630" width="875" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-45" value="&amp;lt;TAKIM NO&amp;gt;,&amp;lt;PAKET NUMARASI&amp;gt;,&amp;lt;GÖNDERME SAATİ&amp;gt;,&amp;lt;BASINÇ&amp;gt;,&amp;lt;YÜKSEKLİK&amp;gt;,&amp;lt;İNİŞ HIZI&amp;gt;, &amp;lt;SICAKLIK&amp;gt;,&amp;lt;PİL GERİLİMİ&amp;gt;,&amp;lt;GPS LATITUDE&amp;gt;,&amp;lt;GPS LONGITUDE&amp;gt;,&amp;lt;GPS ALTITUDE&amp;gt;,&amp;lt;UYDU STATÜSÜ&amp;gt;,&amp;lt;PITCH&amp;gt;,&amp;lt;ROLL&amp;gt;,&amp;lt;YAW&amp;gt;,&amp;lt;DÖNÜŞ SAYISI&amp;gt;,&amp;lt;VİDEO AKTARIM BİLGİSİ&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="670" width="760" height="50" as="geometry" />
+          <mxGeometry x="30" y="670" width="875" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-46" value="Telemteri Verileri" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="600" width="130" height="20" as="geometry" />
+          <mxGeometry x="30" y="600" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

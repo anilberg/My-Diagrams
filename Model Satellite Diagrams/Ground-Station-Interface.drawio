@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T13:46:44.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="R1kXxnvWCdScMrvdSSrN" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T13:49:09.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="kRVyw7PipXs-G5aVgWdU" version="14.5.10" type="github">
   <diagram id="Jdpy7drhXA22xz2mAAPi" name="Page-1">
     <mxGraphModel dx="2253" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="rJ81UgAGEvQx7qFqxQZ4-61" value="Göndeilicek Video Konumu Seç" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="65" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rJ81UgAGEvQx7qFqxQZ4-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJ81UgAGEvQx7qFqxQZ4-63" value="&lt;font color=&quot;#ffffff&quot;&gt;Manuel Ayrıma&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="105" width="360" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

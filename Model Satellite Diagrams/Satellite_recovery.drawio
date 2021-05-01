@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T17:54:30.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" version="14.6.6" etag="CM3zCDjxj2945rY6hnl1" type="github"><diagram id="aLa4wI5mbPuyxBPYZIPX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-01T18:03:51.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="GHrtACO78tSZN7INA0E8" version="14.6.6" type="github">
+  <diagram id="aLa4wI5mbPuyxBPYZIPX" name="Page-1">
+    <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lRUSotnAP_THRNBPau8c-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="243.59000000000003" y="172.5" width="66.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-3" value="Yer İstasyonu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="153.34" y="120" width="86.66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;noLabel=1;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="157.5" width="30.94" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-7" value="" style="shape=mxgraph.cisco.wireless.antenna;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=none;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="33.85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.radio;fontColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="30" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-9" value="İletişim Telsizi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="165" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-11" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.54;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lRUSotnAP_THRNBPau8c-2" target="lRUSotnAP_THRNBPau8c-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=none;fillColor=none;flipH=0;flipV=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-13" value="Görev Yükü" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="186.25" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;noLabel=1;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-15" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lRUSotnAP_THRNBPau8c-7" target="lRUSotnAP_THRNBPau8c-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="90" />
+              <mxPoint x="530" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-16" value="Kurtarma Ekibi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-17" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.radio;fontColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="171.25" width="30" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-18" value="İletişim Telsizi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-19" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=none;entryX=0.48;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.48;exitY=1.156;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lRUSotnAP_THRNBPau8c-8" target="lRUSotnAP_THRNBPau8c-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="270" />
+              <mxPoint x="400" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-20" value="GPS Verisi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="70" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lRUSotnAP_THRNBPau8c-21" value="Kurtarma Ekibi ve Yer İstasyonu iletişimi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="180" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

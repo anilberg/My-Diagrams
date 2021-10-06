@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T21:53:00.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="LL49UatS_nK9UK_slBwJ" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T21:57:12.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="IXIbCwUyMoHX6GcG_R0Y" version="14.8.4" type="github">
   <diagram id="qHAtsX3mUdSM4kjk67JA" name="Page-1">
     <mxGraphModel dx="1780" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="-84zILdERDt2CcozFYza-17" value="+ 5V -" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-84zILdERDt2CcozFYza-18" value="Ultrasonic&lt;br&gt;Sensor" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ae4132;fillColor=#fad9d5;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="-84zILdERDt2CcozFYza-18" value="Ultrasonic&lt;br&gt;Sensor&lt;br&gt;HC-SR04" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ae4132;fillColor=#fad9d5;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-52.5" y="342.5" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-84zILdERDt2CcozFYza-20" value="" style="endArrow=oval;html=1;strokeWidth=1;strokeColor=#009900;startArrow=none;startFill=0;endFill=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="-84zILdERDt2CcozFYza-21">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T19:58:17.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="mOx-btWu0sWaRnmr1AK2" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T19:59:51.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="cSsHYy_BF8qeAoznINwj" version="15.4.3" type="github">
   <diagram id="qHAtsX3mUdSM4kjk67JA" name="Page-1">
     <mxGraphModel dx="1979" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,6 +357,12 @@
         </mxCell>
         <mxCell id="N1pJqk9aHie8FX56Qq_3-20" value="" style="shape=mxgraph.cisco.wireless.antenna;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="800" y="180" width="49.92" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="N1pJqk9aHie8FX56Qq_3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.153;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#B20000;" edge="1" parent="1" source="N1pJqk9aHie8FX56Qq_3-23" target="N1pJqk9aHie8FX56Qq_3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1pJqk9aHie8FX56Qq_3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.562;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="N1pJqk9aHie8FX56Qq_3-23" target="N1pJqk9aHie8FX56Qq_3-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N1pJqk9aHie8FX56Qq_3-23" value="Voltage&lt;br&gt;Regulator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="590" y="130" width="90" height="60" as="geometry" />

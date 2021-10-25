@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T22:23:19.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="d-03-xQgdHl08abOtOo7" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T22:41:21.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="Pesb6JzJvYKDsJOjDgzg" version="15.5.9" type="github">
   <diagram id="qHAtsX3mUdSM4kjk67JA" name="Page-1">
     <mxGraphModel dx="1825" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-84zILdERDt2CcozFYza-52" value="HC-05 Bluetooth Module" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="220" y="522.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="196.34" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-84zILdERDt2CcozFYza-53" value="" style="endArrow=oval;html=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=1;startArrow=oval;startFill=1;endFill=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="-84zILdERDt2CcozFYza-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -221,20 +221,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-84zILdERDt2CcozFYza-56" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6600CC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-84zILdERDt2CcozFYza-10" target="-84zILdERDt2CcozFYza-52" edge="1">
+        <mxCell id="-84zILdERDt2CcozFYza-56" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#6600CC;exitX=0.162;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-84zILdERDt2CcozFYza-10" target="-84zILdERDt2CcozFYza-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="150" as="sourcePoint" />
             <mxPoint x="400" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-84zILdERDt2CcozFYza-57" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#6600CC;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-84zILdERDt2CcozFYza-52" target="-84zILdERDt2CcozFYza-10" edge="1">
+        <mxCell id="-84zILdERDt2CcozFYza-57" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0.669;exitY=0.01;exitDx=0;exitDy=0;strokeColor=#6600CC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="-84zILdERDt2CcozFYza-52" target="-84zILdERDt2CcozFYza-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350.6500000000001" y="188.51999999999998" as="sourcePoint" />
             <mxPoint x="360" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-84zILdERDt2CcozFYza-58" value="&lt;font color=&quot;#6600cc&quot;&gt;USART&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="233.66" y="500" width="40" height="20" as="geometry" />
+          <mxGeometry x="233.66" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-84zILdERDt2CcozFYza-59" value="Motor Driver" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-45" y="140" width="87.5" height="70" as="geometry" />
